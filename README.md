@@ -23,3 +23,19 @@ Follow the below steps to test the NuxtJS app in server side environment
 7. `npm start &`
 -- start the app, done
 
+# Create NuxtJS Project
+
+1. `npx create-nuxt-app <project-name>`
+-- create your project with name
+
+2. `Express`
+-- choose Express as custom server framework
+
+3. `Axios`
+-- install Axios as Nuxt.js modules
+
+4. `ESLint`
+-- choose ESLint as linting tools
+
+5. `Universal (SSR)`
+-- choose Universal (SSR) as rendering mode

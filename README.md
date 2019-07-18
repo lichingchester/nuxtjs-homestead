@@ -20,7 +20,7 @@ Follow the below steps to test the NuxtJS app in server side environment
 6. `sudo service nginx reload`  
 -- reload the nginx service
 
-7. `npm start &`  
+7. `npm start`  
 -- start the app, done
 
 # Create NuxtJS Project
